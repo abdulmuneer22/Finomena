@@ -1,0 +1,10 @@
+'questions' : {
+    '1' : {
+      'question' : 'Who is the prime minister of india ?',
+      'options' : {
+        'A' : 'Narendra Modi',
+        'B' : 'Manmohan Singh',
+        'Answer' : 'A'
+      }
+    }
+  }
